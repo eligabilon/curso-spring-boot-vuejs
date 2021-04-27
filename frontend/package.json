@@ -1,0 +1,22 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.13.1",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "primeicons": "^4.1.0",
+    "primevue": "^2.4.0",
+    "vee-validate": "^3.4.5",
+    "vue-i18n": "^8.24.3"
+  },
+  "devDependencies": {}
+}
